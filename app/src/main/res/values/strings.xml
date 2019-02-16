@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IndianBankFinder</string>
+    <!-- Text to display in the list when there are no banks [CHAR LIMIT=NONE] -->
+    <string name="no_banks">No banks found.</string>
+    <!-- Text to display in the list when there is no internet connection [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="app_description">Find Bank Details.</string>
+</resources>
